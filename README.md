@@ -1,10 +1,10 @@
 <!-- Begin Introduction -->
 ## (≧◡≦) ♡ Nyaa~ Hajimemashite! ♡
-[![Yuukio Fuyu Hero Header](https://res.cloudinary.com/yuuki0/image/upload/f_auto,q_auto,c_fill,g_north_west,h_1860,w_4000/github-hero)](https://yuuki0.net)
+[![Yuukio Fuyu Hero Header](https://statics.yuuki0.net/github-hero)](https://yuuki0.net)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=380&size=100&pause=1000&center=true&width=1500&height=200&lines=Heyoo~+I'm+Yuukio+Fuyu+(%E0%B8%85'%CF%89'%E0%B8%85);Nice+to+meet+you+nyaa~!)](https://yuuki0.net)
 <br><br>
 <a href="https://yuuki0.net" target="_blank">
-    <img src="https://res.cloudinary.com/yuuki0/image/upload/f_auto,q_auto/github-section" width="22%" align="right" />
+    <img src="https://statics.yuuki0.net/github-section" width="22%" align="right" />
 </a>
 <pre>
 <h2>Nyaa~ Hello hooman! I’m currently looking for nya-job~!</h2>
@@ -36,20 +36,31 @@ Just tossing it out there, nya~ Maybe the universe purrr-posedly brought you her
 <br><br>
 <div align="center">
     <a href="https://yuuki0.net" target="_blank">
-        <img src="https://res.cloudinary.com/yuuki0/image/upload/f_auto,q_auto/kqysihuu3gt7q02ee3pp" height="80" />
+        <img src="https://statics.yuuki0.net/chibi" />
     </a>
 </div>
 <br><br><br>
 <!-- End Introduction -->
 
+<!-- Begin Donations Stats -->
+<h1 align="center">🌱 Monthly Support Overview</h1>
+
+<p align="center">
+  <em>Thank you to anyone who supported Yuukio Fuyu 💖</em>
+</p>
+
+![Yuukio Fuyu ~'s Donations Stats](https://stats.yuuki0.net/donation-stats)
+
+<div align="center"><a href="https://support.yuuki0.net" target="_blank"><img src="https://statics.yuuki0.net/loveleft" width="5%" alt="Love Left" /><img src="https://statics.yuuki0.net/button" width="25%" alt="Yuukio Fuyu ~'s Donations Button" /><img src="https://statics.yuuki0.net/loveright" width="5%" alt="Love Right" /></a></div>
+<br><br><br><br>
+<!-- End Donation Stats -->
+
 <!-- Begin Github Stats -->
 <h1 align="center">📊 Yuuki0 GitHub Status</h1>
 
 <p align="center">
-  <em>Just a peek at what I’ve been up to on GitHub</em>
+  <em>Just a peek at what I’ve been up to on GitHub ✨</em>
 </p>
-
-<br/>
 
 [![Yuukio Fuyu ~'s Github Stats](https://stats.yuuki0.net/github-stats)](https://yuuki0.net)
 
@@ -60,7 +71,7 @@ Just tossing it out there, nya~ Maybe the universe purrr-posedly brought you her
 <h1 align="center">🖥️ Yuuki0 Server Status</h1>
 
 <p align="center">
-  <em>Real-time server ping monitoring to keep tabs on uptime and latency</em>
+  <em>Real-time server ping monitoring to keep tabs on uptime and latency ⏳</em>
 </p>
 
 <br/>
