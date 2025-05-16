@@ -62,7 +62,7 @@ Just tossing it out there, nya~ Maybe the universe purrr-posedly brought you her
   <em>Just a peek at what I’ve been up to on GitHub ✨</em>
 </p>
 
-[![Yuukio Fuyu ~'s Github Stats](https://stats.yuuki0.net/github-stats)](https://yuuki0.net)
+![Yuukio Fuyu ~'s Github Stats](https://stats.yuuki0.net/github-stats)
 
 <br><br><br>
 <!-- End Github Stats -->
