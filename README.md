@@ -83,19 +83,19 @@ Just tossing it out there, nya~ Maybe the universe purrr-posedly brought you her
   <tr>
     <td align="center">
       <strong>Main Server</strong><br/>
-      <img src="http://stats.yuuki0.net/main-server" alt="Main Server" width="260" />
+      <img src="https://stats.yuuki0.net/main-server" alt="Main Server" width="260" />
       <br>
       <em>The main server of yuuki0.net</em>
     </td>
     <td align="center">
       <strong>Backup Server</strong><br/>
-      <img src="http://stats.yuuki0.net/backup-server" alt="Backup Server" width="260" />
+      <img src="https://stats.yuuki0.net/backup-server" alt="Backup Server" width="260" />
       <br>
       <em>Backup server of yuuki0.net</em>
     </td>
     <td align="center">
       <strong>Demo Server</strong><br/>
-      <img src="http://stats.yuuki0.net/demo-server" alt="Demo Server" width="260" />
+      <img src="https://stats.yuuki0.net/demo-server" alt="Demo Server" width="260" />
       <br>
       <em>Live test server for repositories</em>
     </td>
@@ -108,19 +108,19 @@ Just tossing it out there, nya~ Maybe the universe purrr-posedly brought you her
   <tr>
     <td align="center">
       <strong>HTTP Server</strong><br/>
-      <img src="http://stats.yuuki0.net/http-website" alt="HTTP Website" width="260" />
+      <img src="https://stats.yuuki0.net/http-website" alt="HTTP Website" width="260" />
       <br>
       <em>Apache2 & NGINX webserver</em>
     </td>
     <td align="center">
       <strong>Proxy Server</strong><br/>
-      <img src="http://stats.yuuki0.net/https-website" alt="HTTPS Website" width="260" />
+      <img src="https://stats.yuuki0.net/https-website" alt="HTTPS Website" width="260" />
       <br>
       <em>Cloudflare proxies & WAF</em>
     </td>
     <td align="center">
       <strong>SMTP Server</strong><br/>
-      <img src="http://stats.yuuki0.net/smtp-server" alt="SMTP Server" width="260" />
+      <img src="https://stats.yuuki0.net/smtp-server" alt="SMTP Server" width="260" />
       <br>
       <em>@yuuki0.net email server</em>
     </td>
@@ -128,13 +128,13 @@ Just tossing it out there, nya~ Maybe the universe purrr-posedly brought you her
   <tr>
     <td align="center">
       <strong>Database Server</strong><br/>
-      <img src="http://stats.yuuki0.net/database-server" alt="Database Server" width="260" />
+      <img src="https://stats.yuuki0.net/database-server" alt="Database Server" width="260" />
       <br>
       <em>SQL database server</em>
     </td>
     <td align="center">
       <strong>Object Storage Server</strong><br/>
-      <img src="http://stats.yuuki0.net/s3-server" alt="Object Storage Server" width="260" />
+      <img src="https://stats.yuuki0.net/s3-server" alt="Object Storage Server" width="260" />
       <br>
       <em>S3 image & file storage server</em>
     </td>
